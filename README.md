@@ -22,11 +22,11 @@ I created this portfolio to demonstrate my technical understanding of:
 
 | Folder | Description |
 |---------|--------------|
-| `01-Azure-Identity-and-Access/` | Labs about RBAC, Conditional Access, and Privileged Identity Management |
-| `02-Network-Security/` | Network Security Groups, Azure Firewall, Bastion, and Just-in-Time VM access |
-| `03-Defender-and-Sentinel/` | Defender for Cloud setup, Sentinel SIEM, and Incident Response |
-| `04-Data-and-App-Security/` | Key Vault, Disk Encryption, and Application Secrets Management |
-| `05-Automation-Scripts/` | PowerShell and Python scripts for cloud security automation |
+| **01-Azure-Identity-and-Access/** | Labs about RBAC, Conditional Access, and Privileged Identity Management |
+| **02-Network-Security/** | Network Security Groups, Azure Firewall, Bastion, and Just-in-Time VM access |
+| **03-Defender-and-Sentinel/** | Defender for Cloud setup, Sentinel SIEM, and Incident Response |
+| **04-Data-and-App-Security/** | Key Vault, Disk Encryption, and Application Secrets Management |
+| **05-Automation-Scripts/** | PowerShell and Python scripts for cloud security automation |
 
 ---
 
