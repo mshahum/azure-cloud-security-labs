@@ -60,7 +60,7 @@ I created this portfolio to demonstrate my technical understanding of:
 
 ##  Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🧰 [GitHub Portfolio](https://github.com/yourusername)
+- 🧰 [GitHub Portfolio](https://github.com/mshahum/azure-cloud-security-labs)
 
 ---
 
