@@ -64,4 +64,4 @@ I created this portfolio to demonstrate my technical understanding of:
 
 ---
 
-> “Security is not a product, but a continuous practice.”
+ “Security is not a product, but a continuous practice.”
